@@ -240,4 +240,4 @@ This repository serves as the official landing page for SplitMovie. The software
 **Get the most recent version of SplitMovie today!**
 
 ---
-**Last updated:** 2026-10-10 16:03:46 UTC
+**Last updated:** 2026-10-10 20:25:31 UTC
